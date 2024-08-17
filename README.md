@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 **Run the following command:**
 
-### npm install supabase
+### `npm install supabase`
 
 ## Available Scripts
 
