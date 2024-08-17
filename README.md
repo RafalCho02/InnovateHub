@@ -1,3 +1,11 @@
+# InnovateHub
+
+**InnovateHub** is a website that curates and showcases intriguing facts and updates from the world of technology. Whether you're a tech enthusiast, a developer, or just someone interested in the latest advancements, InnovateHub provides a centralized place to discover and explore fascinating tidbits from the tech world.
+
+**The image showcases the InnovateHub application interface:
+
+<img width="1424" alt="Zrzut ekranu 2024-08-17 o 12 41 33" src="https://github.com/user-attachments/assets/0053fa3b-e08f-44c0-a656-e18074e3e49f">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
