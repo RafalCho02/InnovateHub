@@ -12,9 +12,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Installation
 
-**Run the following command:**
+**Run the following commands:**
+
+### `npx create-react-app InnovateHub`
 
 ### `npm install supabase`
+
+**Then upload the files from the repository**
 
 ## Available Scripts
 
